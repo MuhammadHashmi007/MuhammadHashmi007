@@ -12,10 +12,19 @@
 [![Website](https://img.shields.io/badge/Website-0a0a0a?style=flat&logo=google-chrome&logoColor=white)](https://orbihthinx.com)
 
 ## 💻 Technical Skills & Expertise
-- Deployment of Web Applications, Mobile Applications, and Desktop Applications
-- DevOps , DevSecOps ,  Security , Server Hardening , Vpn , Vulnerability mitigations
-- Web Scraping, CI/CD , Docker , Cloud Services
-- Chatbot Development
+
+✔️Expert DevOps Practices: Leading initiatives in deploying AWS tools, reducing Mean Time to Respond (MTTR) by 48%, which enhanced overall efficiency and system resilience.
+
+✔️Security-First Approach: Proven ability in firewall configuration, identity management, and infrastructure hardening to safeguard systems against evolving threats.
+
+✔️AWS & GCP: Hands-on experience in integrating cloud tools, deploying scalable infrastructure, and optimizing cloud costs.
+
+✔️CI/CD Pipelines: Expert in automating deployments using Jenkins, Docker, and other tools, ensuring rapid and reliable software releases.
+
+✔️Proficient in managing various Linux Operating Systems such as CentOS, Ubuntu, Debian, and more.
+Experienced in handling web servers (Apache, Nginx) and email servers (Postfix, SMTP), ensuring uptime and reliability.
+
+✔️Skilled in writing Bash and Batch scripts to automate routine tasks and boost efficiency, freeing up valuable team time for innovation.
 
 ## 🛠️ Tools & Technologies Used
 

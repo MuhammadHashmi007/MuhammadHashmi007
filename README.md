@@ -1,7 +1,8 @@
 ## Hi there , Ahmed Hashmi here :
 
+I am currently working as a DevOps Engineer at PhishRod and at Upwork, where I focus on deploying secure, automated solutions to boost productivity across projects. I am deeply committed to continuous learning and self-improvement, especially in the fast-paced fields of IT, cloud infrastructure, and cybersecurity. I actively pursue new certifications, training programs, and projects to stay updated with the latest tools and best practices, ensuring that I am always ready to tackle the challenges of an ever-evolving technology landscape
 
-## Lets Connect
+## ✔️ Lets Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammadahmedhashmi/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/MuhammadHashmi007)

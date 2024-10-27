@@ -10,7 +10,7 @@ I am currently working as a DevOps Engineer at PhishRod and at Upwork, where I f
 [![Skype](https://img.shields.io/badge/Skype-blue?style=flat&logo=skype)](https://join.skype.com/invite/yVLNYjzpqeH1)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Website](https://img.shields.io/badge/Website-0a0a0a?style=flat&logo=google-chrome&logoColor=white)](https://orbihthinx.com)
+[![Website](https://img.shields.io/badge/Website-0a0a0a?style=flat&logo=google-chrome&logoColor=white)](https://orbithinx.com)
 
 ## 💻 Technical Skills & Expertise
 

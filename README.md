@@ -18,7 +18,7 @@ I am currently working as a DevOps Engineer at PhishRod and at Upwork, where I f
 
 ✔️Security-First Approach: Proven ability in firewall configuration, identity management, and infrastructure hardening to safeguard systems against evolving threats.
 
-✔️AWS & GCP: Hands-on experience in integrating cloud tools, deploying scalable infrastructure, and optimizing cloud costs.
+✔️AWS & Oracle: Hands-on experience in integrating cloud tools, deploying scalable infrastructure, and optimizing cloud costs.
 
 ✔️CI/CD Pipelines: Expert in automating deployments using Jenkins, Docker, and other tools, ensuring rapid and reliable software releases.
 

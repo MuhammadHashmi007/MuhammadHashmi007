@@ -1,6 +1,6 @@
 ## Hi there , Ahmed Hashmi here :
 
-I am currently working as a DevOps Engineer at PhishRod and at Upwork, where I focus on deploying secure, automated solutions to boost productivity across projects. I am deeply committed to continuous learning and self-improvement, especially in the fast-paced fields of IT, cloud infrastructure, and cybersecurity. I actively pursue new certifications, training programs, and projects to stay updated with the latest tools and best practices, ensuring that I am always ready to tackle the challenges of an ever-evolving technology landscape
+I am currently working as a DevOps Engineer at PhishRod , where I focus on deploying secure, automated solutions to boost productivity across projects. I am deeply committed to continuous learning and self-improvement, especially in the fast-paced fields of IT, cloud infrastructure, and cybersecurity. I actively pursue new certifications, training programs, and projects to stay updated with the latest tools and best practices, ensuring that I am always ready to tackle the challenges of an ever-evolving technology landscape
 
 ## ✔️ Lets Connect
 
@@ -8,9 +8,6 @@ I am currently working as a DevOps Engineer at PhishRod and at Upwork, where I f
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/MuhammadHashmi007)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium)](https://medium.com/@m.ahmedhashmi1)
 [![Skype](https://img.shields.io/badge/Skype-blue?style=flat&logo=skype)](https://join.skype.com/invite/yVLNYjzpqeH1)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-
 
 ## 💻 Technical Skills & Expertise
 

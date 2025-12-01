@@ -6,17 +6,18 @@ I’m a results-driven DevOps Engineer with over 4 years of experience deliverin
 
 ## 🔧 Core Expertise Includes:
 
-✔️ Cloud Infrastructure (AWS & Oracle Cloud): Provisioned and managed EC2, IAM, VCNs, and storage with cost-optimized, scalable solutions.
-✔️ Infrastructure as Code (IaC): Built reproducible infrastructure using Terraform, reducing manual overhead.
-✔️ Security & Compliance: Ensured HIPAA and SOC 2 compliance across AWS and dedicated servers through robust access control, encryption, and audit processes.
-✔️ Automation & Scripting: Automated deployments and system configs with Bash and Batch, improving productivity and reducing error rates.
-✔️ Database & Server Management: Managed MySQL and MSSQL environments; hardened Linux servers and optimized performance with live log analysis.
-✔️ Containerization & CI/CD: Deployed applications with Docker, implemented CI/CD using Jenkins and AWS CodeCommit.
-✔️ Monitoring & Observability: Set up centralized logging with the ELK Stack, and tracked performance with APM and RUM tools.
-✔️ Tech Support & Load Balancing: Delivered L2 support for HAProxy, Tomcat, and Nginx; implemented load balancing for high availability.
-✔️ System Services & Reverse Proxy: Created custom Systemd services and configured Apache reverse proxies.
-✔️ Client-Facing Delivery: Supported enterprise clients including the Ministry of Justice, State Bank of Pakistan, and Saudi Royal Guards.
-✔️ Server Migration & Maintenance: Led region-to-region AWS migrations, OS upgrades, and end-to-end server lifecycle management.
+- ✔️ **Cloud Infrastructure (AWS & Oracle Cloud):** Provisioned and managed EC2, IAM, VCNs, and storage with cost-optimized, scalable solutions.
+- ✔️ **Infrastructure as Code (IaC):** Built reproducible infrastructure using Terraform, reducing manual overhead.
+- ✔️ **Security & Compliance:** Ensured HIPAA and SOC 2 compliance across AWS and dedicated servers through robust access control, encryption, and audit processes.
+- ✔️ **Automation & Scripting:** Automated deployments and system configs with Bash and Batch, improving productivity and reducing error rates.
+- ✔️ **Database & Server Management:** Managed MySQL and MSSQL environments; hardened Linux servers and optimized performance with live log analysis.
+- ✔️ **Containerization & CI/CD:** Deployed applications with Docker, implemented CI/CD using Jenkins and AWS CodeCommit.
+- ✔️ **Monitoring & Observability:** Set up centralized logging with the ELK Stack, and tracked performance with APM and RUM tools.
+- ✔️ **Tech Support & Load Balancing:** Delivered L2 support for HAProxy, Tomcat, and Nginx; implemented load balancing for high availability.
+- ✔️ **System Services & Reverse Proxy:** Created custom Systemd services and configured Apache reverse proxies.
+- ✔️ **Client-Facing Delivery:** Supported enterprise clients including the Ministry of Justice, State Bank of Pakistan, and Saudi Royal Guards.
+- ✔️ **Server Migration & Maintenance:** Led region-to-region AWS migrations, OS upgrades, and end-to-end server lifecycle management.
+
 
 I’m passionate about staying ahead in the DevOps, cloud, and cybersecurity space—constantly upgrading my skills through certifications, hands-on projects, and new challenges.
 
@@ -59,7 +60,7 @@ I’m passionate about staying ahead in the DevOps, cloud, and cybersecurity spa
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadHashmi007&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## ✔️ Lets Connect
 

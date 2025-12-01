@@ -57,11 +57,6 @@ I’m passionate about staying ahead in the DevOps, cloud, and cybersecurity spa
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)]()
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)]()
 
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadHashmi007&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
 ## ✔️ Lets Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammadahmedhashmi/)

@@ -1,33 +1,33 @@
 ## Hi there , Ahmed Hashmi here :
 
-I am currently working as a DevOps Engineer at PhishRod , where I focus on deploying secure, automated solutions to boost productivity across projects. I am deeply committed to continuous learning and self-improvement, especially in the fast-paced fields of IT, cloud infrastructure, and cybersecurity. I actively pursue new certifications, training programs, and projects to stay updated with the latest tools and best practices, ensuring that I am always ready to tackle the challenges of an ever-evolving technology landscape
+[![DevOps Engineer](https://img.shields.io/badge/DevOps_Engineer-0A66C2?style=for-the-badge&logo=github&logoColor=white)]() [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)]() [![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)]() [![CI/CD](https://img.shields.io/badge/CI/CD-3E5B9B?style=for-the-badge&logo=circleci&logoColor=white)]() [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-009C95?style=for-the-badge&logo=circle&logoColor=white)]() [![Automation Enthusiast](https://img.shields.io/badge/Automation_Enthusiast-FB542B?style=for-the-badge&logo=robot&logoColor=white)]()
 
-## ✔️ Lets Connect
+I’m a results-driven DevOps Engineer with over 4 years of experience delivering secure, automated, and scalable infrastructure solutions, I specialize in optimizing cloud environments, enforcing security best practices, and driving efficiency through automation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammadahmedhashmi/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/MuhammadHashmi007)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium)](https://medium.com/@m.ahmedhashmi1)
-[![Skype](https://img.shields.io/badge/Skype-blue?style=flat&logo=skype)](https://join.skype.com/invite/yVLNYjzpqeH1)
+## 🔧 Core Expertise Includes:
 
-## 💻 Technical Skills & Expertise
+✔️ Cloud Infrastructure (AWS & Oracle Cloud): Provisioned and managed EC2, IAM, VCNs, and storage with cost-optimized, scalable solutions.
+✔️ Infrastructure as Code (IaC): Built reproducible infrastructure using Terraform, reducing manual overhead.
+✔️ Security & Compliance: Ensured HIPAA and SOC 2 compliance across AWS and dedicated servers through robust access control, encryption, and audit processes.
+✔️ Automation & Scripting: Automated deployments and system configs with Bash and Batch, improving productivity and reducing error rates.
+✔️ Database & Server Management: Managed MySQL and MSSQL environments; hardened Linux servers and optimized performance with live log analysis.
+✔️ Containerization & CI/CD: Deployed applications with Docker, implemented CI/CD using Jenkins and AWS CodeCommit.
+✔️ Monitoring & Observability: Set up centralized logging with the ELK Stack, and tracked performance with APM and RUM tools.
+✔️ Tech Support & Load Balancing: Delivered L2 support for HAProxy, Tomcat, and Nginx; implemented load balancing for high availability.
+✔️ System Services & Reverse Proxy: Created custom Systemd services and configured Apache reverse proxies.
+✔️ Client-Facing Delivery: Supported enterprise clients including the Ministry of Justice, State Bank of Pakistan, and Saudi Royal Guards.
+✔️ Server Migration & Maintenance: Led region-to-region AWS migrations, OS upgrades, and end-to-end server lifecycle management.
 
-✔️Expert DevOps Practices: Leading initiatives in deploying AWS tools, reducing Mean Time to Respond (MTTR) by 48%, which enhanced overall efficiency and system resilience.
-
-✔️Security-First Approach: Proven ability in firewall configuration, identity management, and infrastructure hardening to safeguard systems against evolving threats.
-
-✔️AWS & Oracle: Hands-on experience in integrating cloud tools, deploying scalable infrastructure, and optimizing cloud costs.
-
-✔️CI/CD Pipelines: Expert in automating deployments using Jenkins, Docker, and other tools, ensuring rapid and reliable software releases.
-
-✔️Proficient in managing various Linux Operating Systems such as CentOS, Ubuntu, Debian, and more.
-Experienced in handling web servers (Apache, Nginx) and email servers (Postfix, SMTP), ensuring uptime and reliability.
-
-✔️Skilled in writing Bash and Batch scripts to automate routine tasks and boost efficiency, freeing up valuable team time for innovation.
+I’m passionate about staying ahead in the DevOps, cloud, and cybersecurity space—constantly upgrading my skills through certifications, hands-on projects, and new challenges.
 
 ## 🛠️ Tools & Technologies Used
 
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)]()
+[![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)]()
+[![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)]()
+[![Logstash](https://img.shields.io/badge/Logstash-9E1B32?style=for-the-badge&logo=logstash&logoColor=white)]()
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)]()
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)]()
@@ -53,15 +53,20 @@ Experienced in handling web servers (Apache, Nginx) and email servers (Postfix, 
 [![NFS](https://img.shields.io/badge/NFS-4A90E2?style=for-the-badge&logo=nfs&logoColor=white)]()
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)]()
 [![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)]()
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
-[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)]()
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)]()
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)]()
 
 
+## 📈 GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
+## ✔️ Lets Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammadahmedhashmi/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/MuhammadHashmi007)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium)](https://medium.com/@m.ahmedhashmi1)
+[![Skype](https://img.shields.io/badge/Skype-blue?style=flat&logo=skype)](https://join.skype.com/invite/yVLNYjzpqeH1)
 
 
 
